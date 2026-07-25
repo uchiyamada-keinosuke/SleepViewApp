@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "sleep-viz",
+  "name": "sleepviewapp",
   "compatibility_date": "2026-07-25",
   "main": "worker.js",
   "assets": {
